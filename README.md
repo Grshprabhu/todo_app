@@ -1,16 +1,7 @@
-# todo_app
+CPAD Assignment : Flutter App with Back4App Integration
 
-A new Flutter project.
+Submitted by Girish D Prabhu [2022MT93518]
 
-## Getting Started
+In order to run this application, ensure Flutter[https://docs.flutter.dev/get-started/install] is downloaded and installed.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
